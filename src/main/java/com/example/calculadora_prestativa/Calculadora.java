@@ -3,6 +3,7 @@ import javax.swing.*;
 import javax.swing.JFrame;
 
 public class Calculadora{
+    //Uma calculadora bem supimpa, sabe demais.
     public static double[] pegaValores(){
         double[] numeros = new double[2];
         String valorUm = JOptionPane.showInputDialog("Digite o primeiro valor:");
