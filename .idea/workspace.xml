@@ -5,8 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da8ee920-8920-4383-b1bc-126603eca8ee" name="Changes" comment="Commit calculadora">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/calculadora_prestativa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/calculadora_prestativa/calculadoraTeste.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/calculadora_prestativa/calculos/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/calculadora_prestativa/util/Calcula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/calculadora_prestativa/util/Uteis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/EuSabo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/calculadora_prestativa/Conta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/calculadora_prestativa/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/calculadora_prestativa/calculos/Calc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/calculadora_prestativa/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/calculadora_prestativa/util/Calcula.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/calculadora_prestativa/util/Uteis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/module-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/calculadora_prestativa/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/calculadora_prestativa/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/calculadora_prestativa/Calculadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +34,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -31,24 +50,54 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Programação/ProjetosJava/Calculadora_Prestativa"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programação\Projetos HTML CSS\Calculadora_Prestativa\src\main\java\com\example\calculadora_prestativa\util" />
+      <recent name="D:\Programação\Projetos HTML CSS\Calculadora_Prestativa\src\main\java\com\example\calculadora_prestativa" />
       <recent name="D:\ProjetosJava\Calculadora_Prestativa\src\main\resources" />
       <recent name="D:\ProjetosJava\Calculadora_Prestativa\src\main\java\com\example\calculadora_prestativa" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Calculadora">
-    <configuration name="Calculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.calculadora_prestativa.Calculadora" />
-      <module name="Calculadora_Prestativa" />
+  <component name="RunManager" selected="Application.Conta">
+    <configuration name="Calcula" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.calculadora_prestativa.util.Calcula" />
+      <module name="Calculadora_Prestativa_com_HTML" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.calculadora_prestativa.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Conta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.calculadora_prestativa.Conta" />
+      <module name="Calculadora_Prestativa_com_HTML" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.calculadora_prestativa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.calculadora_prestativa.Main" />
+      <module name="Calculadora_Prestativa_com_HTML" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.calculadora_prestativa.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,10 +107,10 @@
     </configuration>
     <configuration name="MathMateca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.calculadora_prestativa.MathMateca" />
-      <module name="Calculadora_Prestativa" />
+      <module name="Calculadora_Prestativa_com_HTML" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.calculadora_prestativa.*" />
+          <option name="PATTERN" value="com.example.calculadora_prestativa.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,6 +120,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Conta" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Calculadora" />
         <item itemvalue="Application.MathMateca" />
       </list>
@@ -99,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691795975893</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit calculadora">
+      <created>1691882093108</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691882093108</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
