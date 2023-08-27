@@ -5,7 +5,7 @@ import static com.example.calculadora_prestativa.calculos.Calc.*;
 import static com.example.calculadora_prestativa.util.Uteis.*;
 
 public class Calcula {
-    //Uma calculadora bem supimpa, sabe demais.
+    //Uma calculadora bem supimpa, sabe demais..
 
 
     public static void Calculadora(){
