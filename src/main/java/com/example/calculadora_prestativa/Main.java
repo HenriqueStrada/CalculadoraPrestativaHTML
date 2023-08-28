@@ -3,6 +3,7 @@ import static com.example.calculadora_prestativa.util.Calcula.Calculadora;
 import static com.example.calculadora_prestativa.util.Uteis.mostrarImagem;
 
 public class Main {
+    //Classe principal
     public static void main(String[] args) {
         Calculadora();
         mostrarImagem();
