@@ -11,29 +11,48 @@ body{
     background-color: #3F5D63;
     color: white;
 }
-
+.titulo{
+    font-family: 'Krona One', sans-serif;
+    font-size: 30px;
+    height: 50px;
+}
 .selecione{
     color: aqua;
+    font-family: 'Krona One', sans-serif;
+    font-size: 22px;
+    height: 50px;
 }
 
 .apresentacao{
-    margin: 28%;
+    margin: 10% 27%;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
 .conteudo{
-    width: 500px;
-    
-}
-
-.titulo{
-    font-family: 'Krona One', sans-serif;
-    font-size: 24px;
-    height: 50px;
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
 }
 
 .imagem{
     width: 500px;
+}
+.github{
+    height: 100px;
+}
+.github_link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    width: 200px;
+    text-align: center;
+    border-radius: 16px;
+    font-size: 24px;
+    padding: 21px 0; 
+    text-decoration: none;
+    color: black;
 }
