@@ -5,26 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da8ee920-8920-4383-b1bc-126603eca8ee" name="Changes" comment="Commit calculadora">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/calculadora_prestativa/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/calculadora_prestativa/calculadoraTeste.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/calculadora_prestativa/calculos/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/calculadora_prestativa/util/Calcula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/calculadora_prestativa/util/Uteis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/EuSabo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/calculadora_prestativa/Conta.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/calculadora_prestativa/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/calculadora_prestativa/calculos/Calc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/calculadora_prestativa/hello-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/calculadora_prestativa/util/Calcula.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/example/calculadora_prestativa/util/Uteis.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/module-info.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/calculadora_prestativa/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/htmlCapa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/calculadora_prestativa/Calculadora.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/calculadora_prestativa/calculadoraTeste.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/calculadora_prestativa/calculadoraTeste.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/calculadora_prestativa/calculos/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/calculadora_prestativa/calculos/Calc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +40,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Programação/ProjetosJava/Calculadora_Prestativa"
+    "last_opened_file_path": "D:/Programação/Projetos HTML CSS/Calculadora_Prestativa",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programação\Projetos HTML CSS\Calculadora_Prestativa\src\main\resources" />
       <recent name="D:\Programação\Projetos HTML CSS\Calculadora_Prestativa\src\main\java\com\example\calculadora_prestativa\util" />
       <recent name="D:\Programação\Projetos HTML CSS\Calculadora_Prestativa\src\main\java\com\example\calculadora_prestativa" />
       <recent name="D:\ProjetosJava\Calculadora_Prestativa\src\main\resources" />
@@ -120,10 +111,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Conta" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Calculadora" />
         <item itemvalue="Application.MathMateca" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Conta" />
+        <item itemvalue="Application.Calcula" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1691882093108</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit calculadora">
+      <created>1693154189032</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693154189032</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit calculadora">
+      <created>1693154278616</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1693154278616</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
