@@ -6,7 +6,7 @@
 }
 
 body{
-    height: 100vh;
+    height: 50vh;
     box-sizing: border-box;
     background-color: #3F5D63;
     color: white;
@@ -14,7 +14,13 @@ body{
 .titulo{
     font-family: 'Krona One', sans-serif;
     font-size: 30px;
-    height: 50px;
+    height: 30px;
+}
+.subTitulo{
+  font-family: 'Krona One', sans-serif;
+  font-size: 30px;
+  height: 30px;
+  color: aqua;
 }
 .selecione{
     color: aqua;
@@ -56,12 +62,16 @@ body{
     text-decoration: none;
     color: black;
 }
-
-#myButton {
+.flexButton{
+  display: flex;
+  flex-wrap: wrap;
+}
+.myButton {
     font-family: 'Krona One', sans-serif;
-    font-size: 20px;
+    font-size: 16px;
+    margin: 10px;
     height: 50px;
-    width: 530px;
+    width: 5  0px;
     padding: 10px 20px;
     cursor: pointer;
     border-radius: 16px;
@@ -69,7 +79,7 @@ body{
     color: black;
   }
   
-  #myButton:hover {
+  .myButton:hover {
     animation: pulse 1s infinite;
   }
   
